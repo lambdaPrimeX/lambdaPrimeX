@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </HEAD>
 
-<h1>Casey Cramp</h1><h4>Computer Science with Artificial Intelligence student (MSci).<br></h4>  
+<h1>Casey Cramp</h1><h4>Computer Science with Artificial Intelligence student (BSc).<br></h4>  
 
 Please feel free to explore the repositories here and give feedback on code where possible.
 I have a keen interest in intelligent applications for the purpose of innovation or driving insight into societal issues.
